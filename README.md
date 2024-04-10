@@ -1,4 +1,4 @@
-![This is me](https://github.com/JustCodeItDeveloper/JustCodeItDeveloper/blob/main/logo.jpeg)
+ ![This is me] !(https://github.com/trabajosjap/trabajosjesuspuente/blob/main/JesusPuente.jpg))
 
 
 # Catálogo de Recursos
