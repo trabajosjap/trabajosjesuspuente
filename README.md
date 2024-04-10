@@ -1,3 +1,6 @@
+![This is me](https://github.com/JustCodeItDeveloper/JustCodeItDeveloper/blob/main/logo.jpeg)
+
+
 # Catálogo de Recursos
 
 Bienvenido al catálogo de recursos, donde encontrarás una variedad de elementos útiles para diversos propósitos. Este catálogo está diseñado para proporcionar una colección organizada de recursos que pueden ser útiles para desarrolladores, diseñadores y entusiastas de la tecnología.
@@ -23,3 +26,5 @@ Este catálogo se distribuye bajo la licencia [MIT](LICENSE), lo que significa q
 ## Contacto
 
 Si tienes alguna pregunta, sugerencia o comentario, no dudes en ponerte en contacto con nosotros a través de [correo electrónico](mailto:jpuente720@gmail.com).
+
+
